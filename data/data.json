@@ -1,0 +1,15 @@
+{
+	"test":{
+		"id":"int(11)",
+		"name": "varchar(10)",
+		"text":"tinytext",
+		"table_id":"int(11)",
+		"add_col":"tinytext"
+	},
+	"test2":{
+		"id":"int(11)",
+		"name": "varchar(100)",
+		"text":"tinytext",
+		"table_id":"int(11)"
+	}
+}
